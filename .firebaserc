@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "fir-basics-a1b02",
+    "test": "fir-basics-a1b02"
+  },
+  "targets": {},
+  "etags": {}
+}
+
+
